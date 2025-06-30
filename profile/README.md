@@ -30,3 +30,9 @@
 [의성군 귀농귀촌정보센터](https://www.usc.go.kr/gouiseong/page.do?mnu_uid=1835&)
 
 [의성군 농기계 임대 서비스](https://usc.go.kr/arp/arp/apply/_new)
+
+[영농자재신문 - 농기계 임대사업소 접근성](https://www.newsfm.kr/mobile/article.html?no=7118)
+
+[의성군 - 경북 최대 농기계 임대 거점](https://www.kamnews.co.kr/news/articleView.html?idxno=7609)
+
+[의성군 산불 피해 농가 지원](http://www.usinews.com/front/news/view.do?articleId=ARTICLE_00028204)
