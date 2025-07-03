@@ -20,7 +20,6 @@
 
 | 이름 | 역할 | 연락처 |
 |------|------|--------|
-| 김다빈 | 디자인 | <a href="https://www.instagram.com/dvn.inn_/"><img width="80" alt="image" src="https://instagram.fmaa2-2.fna.fbcdn.net/v/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fmaa2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHoxsVMHvi-mhr7XQPke3fJpR-lICuOkCR7FuuPBMPZ9aY8npmp3qTMnNH5JmJ0weNQUFwUMvQA7Eek8GkvcWI5&_nc_ohc=iI7D9_1IVLoQ7kNvwHyP_hg&_nc_gid=dkjTEjVkS4gNMolkhLhzdw&edm=AL0yEowBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfNOrd3VYGVwv_1n6OPJ2Gre_uLRQ_aOeIlwckNpOB93Mw&oe=68688A8F&_nc_sid=11ed0a" /></a> |
 | 한유진 | 프론트 | <a href="https://github.com/yummjin"><img width="80" alt="image" src="https://avatars.githubusercontent.com/u/128016678?v=4" /></a>|
 | 이건아 | 백엔드 | <a href="https://github.com/L33gn21"><img width="80" alt="image" src="https://avatars.githubusercontent.com/u/128562648?v=4" /></a> |
 | 유승헌 | 백엔드 | <a href="https://github.com/2heunxun"><img width="80" alt="image" src="https://avatars.githubusercontent.com/u/168928296?v=4" /></a> |
